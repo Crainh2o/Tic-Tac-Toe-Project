@@ -1,0 +1,37 @@
+
+{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+html {
+    font-size: 20px;
+}
+body {
+    height: 100vh;
+    background: linear-gradient(135deg, hsl(300, 10%, 6%), #d16);
+}
+.wrapper {
+    position:absolute; 
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%
+}
+.container {
+    width: 70vmin;
+    height: 70vmin;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2vmin;
+}
+.button-option {
+    background: #fff;
+    height: 22vmin;
+    width: 22vmin;
+    border:hsl(300, 10%, 6%)
+    border-radius: 8px;
+    font-size: 12vmin;
+    color: #CC66FF;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
