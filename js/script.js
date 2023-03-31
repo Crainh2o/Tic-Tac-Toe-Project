@@ -3,6 +3,7 @@ const boardElement = document.getElementById('board')
 const winningMessageElement = document.getElementById('winningMessage')
 const restartButton = document.getElementById('restartButton')
 const winningMessageTextElement = document.getElementById('winningMessageText')
+const playermessage = document.querySelector('.playermessage')
 
 // line 1-6 using getElementbyID save the values of the board elements (winning message and restart button) and querySelector method return the first element in the doc. Used the square brackets to get the data-cell attribute. 
 const PLAYER_X_CLASS = 'x'
@@ -22,15 +23,18 @@ startGame()
 restartButton.addEventListener('click', startGame)
 
 function startGame() {
-    isPlayer_0_Turn = false
     cellElements.forEach(cell => {
         cell.classList.remove(PLAYER_X_CLASS)
         cell.classList.remove(PLAYER_O_CLASS)
+    })
+    isPlayer_0_Turn = false
+    winningMessageElement.classList.remove('show')
+    cellElements.forEach(cell => {
         cell.removeEventListener('click', handleCellClick)
-        cell.addEventListener('click', handleCellClick, { once: true })
+        cell.addEventListener('click', handleCellClick, {once: true})
+        cell.textContent = ''
     })
     setBoardHoverClass()
-    winningMessageElement.classList.remove('show')
 }
 // starting the game and X goes first and set player O to false 
 function handleCellClick(e) {
@@ -70,6 +74,7 @@ function placeMark(cell, currentClass) {
 }
 function swapTurns() {
     isPlayer_0_Turn = !isPlayer_0_Turn
+    playermessage.innerText = isPlayer_0_Turn ? 'Player O Turn' : 'Player X Turn'
 }
 //placemark function places the X or O in the cell. Swapturns function turns after the X or O is place in the cell. 
 function setBoardHoverClass() {
