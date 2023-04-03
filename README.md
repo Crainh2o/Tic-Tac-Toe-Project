@@ -4,10 +4,10 @@
 I had to make a Tic-Tac-Toe JavaScript game. For the game to work I used JavaScipt, HTML and CSS. I also utilized my classmates,Google, and my instructor. HTML code is used for id tags and class elements for the game. CSS is used to personalize the game. JavaScript is used to make the game interactive. 
 
 # Technologies 
-- https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-- https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
-- https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
-- https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+- (https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- (https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+- (https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+- (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 
