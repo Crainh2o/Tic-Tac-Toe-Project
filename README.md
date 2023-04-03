@@ -7,6 +7,8 @@ I had to make a Tic-Tac-Toe JavaScript game. For the game to work I used JavaSci
 
 I first did a Wireframe.cc to map out how I wanted my game to look the link is below.  Next I did Pseudo Code. I wrote everything I needed to do and what mistakes I have been doing prior to make sure I look over my work frequently for mistakes. I knew I needed my basics done for HTML, CSS, and JavaScript. To start the click the link below.
 
+- file:///Users/clair/sei/projects/Tic-Tac-Toe-Project/index.html
+
 
 # Planning Links
 - https://wireframe.cc/H4Xg9n
