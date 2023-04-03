@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe Atlanta Falcon Style 
 # Desciption
   
 I had to make a Tic-Tac-Toe JavaScript game. For the game to work I used JavaScipt, HTML and CSS. I also utilized my classmates,Google, and my instructor. HTML code is used for id tags and class elements for the game. CSS is used to personalize the game. JavaScript is used to make the game interactive. 
@@ -22,7 +22,7 @@ I had tons of hurdles but I will point out my top three. I had trouble getting m
 
 # How Does The Game Work 
 
-My game works like any normal Tic-Tac-Toe game except its Atlanta Falcons colors (loyal fan since 1998). The X player goes first, then O. The first letter to get three X's or O's 3 in a row in any combination win's the game. The next screen will congratulate the winner and you can restart the game. 
+My game works like any normal Tic-Tac-Toe game except its Atlanta Falcon colors (loyal fan since 1998). The X player goes first, then O. The first letter to get three X's or O's 3 in a row in any combination win's the game. The next screen will congratulate the winner and you can restart the game. 
 
 # Credits 
 
