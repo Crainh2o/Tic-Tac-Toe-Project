@@ -5,15 +5,15 @@ I had to make a Tic-Tac-Toe JavaScript game. For the game to work I used JavaSci
 
 # Getting Started 
 
-I first did a Wireframe.cc to map out how I wanted my game to look the link is below.  Next I did Pseudo Code. I wrote everything I needed to do and what mistakes I have been doing prior to make sure I look over my work frequently for mistakes. I knew I needed my basics done for HTML, CSS, and JavaScript. To start the click the link below.
+I first did a Wireframe.cc to map out how I wanted my game to look the link is below.  Next I did Pseudo Code. I wrote everything I needed to do and what mistakes I have been doing prior to make sure I look over my work frequently for mistakes. I knew I needed my basics done for HTML, CSS, and JavaScript. A few screenshots of how the game works, and link to the game are below. 
+
+game link file:///Users/clair/sei/projects/Tic-Tac-Toe-Project/index.html
 
 ![Screenshot 2023-04-03 at 5 00 41 PM](https://user-images.githubusercontent.com/124539081/229626577-412466ac-16f1-413c-b478-7fc4c1d78ecb.png)
 ![Screenshot 2023-04-03 at 5 21 38 PM](https://user-images.githubusercontent.com/124539081/229630593-73c54041-a98f-4d8c-9626-4c97cd1c2cb9.png)
 ![Screenshot 2023-04-03 at 5 21 53 PM](https://user-images.githubusercontent.com/124539081/229630614-1925e021-ba9d-4d27-9857-0b344ea8899e.png)
 ![Screenshot 2023-04-03 at 5 22 18 PM](https://user-images.githubusercontent.com/124539081/229630629-5c62c747-39c0-45a3-8941-d5b99d9ba6e5.png)
 ![Screenshot 2023-04-03 at 5 22 29 PM](https://user-images.githubusercontent.com/124539081/229630649-ee01a666-7600-4d35-a946-f46976830ec1.png)
-
-
 
 # Planning Links
 - https://wireframe.cc/H4Xg9n
