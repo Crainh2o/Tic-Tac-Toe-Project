@@ -16,9 +16,9 @@ I first did a Wireframe.cc to map out how I wanted my game to look the link is b
 
 ![Screenshot 2023-04-03 at 5 02 25 PM](https://user-images.githubusercontent.com/124539081/229626971-80694570-4613-4874-854c-d6f1db2983b1.png)
 
-# My Hurdles
+# My Hurdles and WIN 
 
-I had tons of hurdles but I will point out my top three. I had trouble getting my grid to show. I asked my classmate's to help and she was very helpful. She showed me where I went wrong and it was a simple changing the font size. I know the font size. I lauged at myself. I also had trouble seeing my x's and o's. My code was so weird. So I scratched all the code I had for those functions and started over. Once I did that, I was able to see my mistake and fix the problem. Lastely, my winning messages weren't showing up how I wanted them to. I had to add some more code to ge that working right. These top three hurdles took up majority of my time creating the game. I know I'm a beginner but I wanted to add a few silver feature's in my game and wanted to make sure I met all the requirements for the projects. 
+I had tons of hurdles but I will point out my top three. I had trouble getting my grid to show. I asked my classmate's to help and she was very helpful. She showed me where I went wrong and it was a simple changing the font size. I know the font size. I lauged at myself. I also had trouble seeing my x's and o's. My code was so weird. So I scratched all the code I had for those functions and started over. Once I did that, I was able to see my mistake and fix the problem. Lastely, my winning messages weren't showing up how I wanted them to. I had to add some more code to ge that working right. These top three hurdles took up majority of my time creating the game. I know I'm a beginner but I wanted to add a few silver feature's in my game and wanted to make sure I met all the requirements for the projects. The win for me was actually understanding what I was coding and what I was debugging.
 
 # How Does The Game Work 
 
