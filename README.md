@@ -18,8 +18,11 @@ My game works like any normal Tic-Tac-Toe game except its Atlanta Falcons colors
 Credits 
 
 w3schools.com
+
 stackoverflow.com
+
 codebrainer.com
+
 Shout out to DeShe Woods, Dominique Akers, and Suresh for all the help. 
 
   
