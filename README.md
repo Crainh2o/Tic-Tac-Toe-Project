@@ -13,7 +13,7 @@ I had to make a Tic-Tac-Toe JavaScript game. For the game to work I used JavaSci
 
 # Getting Started 
 
-I first did a Wireframe.cc to map out how I wanted my game to look the link is below.  Next I did Pseudo Code. I wrote everything I needed to do and what mistakes I have been doing prior to make sure I look over my work frequently for mistakes. I knew I needed my basics done for HTML, CSS, and JavaScript. A few screenshots of how the game works, and link to the game are below. Also copy and paste the link into your mobile device to play as well! 
+I first did a Wireframe.cc to map out how I wanted my game to look that link is the planning portion of my read me.  Next I did Pseudo Code. I wrote everything I needed to do and what mistakes I have been doing prior to make sure I look over my work frequently for mistakes. I knew I needed my basics done for HTML, CSS, and JavaScript. A few screenshots of how the game works, and link to the game are below. Also copy and paste the link into your mobile device to play as well! 
 
 game link:https://crainh2o.github.io/Tic-Tac-Toe-Project/
 
@@ -35,6 +35,10 @@ I had tons of hurdles but I will point out my top three. I had trouble getting m
 # How Does The Game Work 
 
 My game works like any normal Tic-Tac-Toe game except its Atlanta Falcon colors (loyal fan since 1998). The X player goes first, then O. The first letter to get three X's or O's 3 in a row in any combination win's the game. The next screen will congratulate the winner and you can restart the game. 
+
+# What Did I Learn
+
+I learned that if I actually slow down and look at what I'am doing, I can debug and figure out a lot of problems. I also learned how to correctly ask Google the right questions. I also learned that when I'm pushed to my limits I can still perform. I learned a lot this project week these where my top three.
 
 # Credits 
 
