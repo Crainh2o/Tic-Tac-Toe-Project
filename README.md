@@ -38,7 +38,7 @@ My game works like any normal Tic-Tac-Toe game except its Atlanta Falcon colors 
 
 # What Did I Learn
 
-I learned that if I actually slow down and look at what I'am doing, I can debug and figure out a lot of problems. I also learned how to correctly ask Google the right questions. I also learned that when I'm pushed to my limits I can still perform. I learned a lot this project week these where my top three.
+I learned that if I actually slow down and look at what I'am doing, I can debug and figure out a lot of problems. I also learned how to correctly ask Google the right questions. I also learned that when I'm pushed to my limits I can still perform. I learned a lot this project week these where my top three. My next plans will be to add this project to my website and attempt to add a Falcon symbol for the letter X. 
 
 # Credits 
 
